@@ -1,2 +1,2 @@
 # linuxmint
-maintaining linux run images, actual Linux 19, 20
+developing and maintaining linux, actual Linux Mint 19, Tricia & Tessa
