@@ -1,6 +1,6 @@
-### zellviewlinuxmint
+##### zellviewlinuxmint
 
-## Install iso-images
+#### Install iso-images
 
 ## Linux Mint 19.3 Tricia
 https://www.zellview.net/dl/mint-19.3.iso
